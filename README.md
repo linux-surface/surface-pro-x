@@ -2,7 +2,7 @@
 
 ## Useful Links
 
-- Current status: https://github.com/linux-surface/surface-pro-x/issues/1
+- Current status: https://github.com/linux-surface/surface-pro-x/issues/1 (general discussion: https://github.com/linux-surface/surface-pro-x/issues/7)
   - Project: https://github.com/orgs/linux-surface/projects/1
   - Wiki: https://github.com/linux-surface/surface-pro-x/wiki
 - Kernel: https://github.com/linux-surface/kernel

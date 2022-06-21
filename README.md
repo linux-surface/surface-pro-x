@@ -11,3 +11,4 @@
 - Firmware: https://github.com/linux-surface/aarch64-firmware
 - Misc. packages: https://github.com/linux-surface/aarch64-packages
 - Known good GRUB image: https://github.com/linux-surface/grub-image-aarch64
+- MSM kernel with `sdmshrike` support (automotive `sc8180` varaint): https://git.codelinaro.org/clo/la/kernel/msm-4.14/-/tree/auto-kernel.lnx.4.14.c34
